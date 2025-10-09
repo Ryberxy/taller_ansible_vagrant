@@ -1,2 +1,2 @@
 - name: Actualizamos el sistema
-  apt: 
+  apt: uodate_cache=yes upgrade=yes 
